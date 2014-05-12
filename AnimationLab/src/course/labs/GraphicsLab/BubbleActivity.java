@@ -71,7 +71,7 @@ public class BubbleActivity extends Activity {
 		mFrame = (RelativeLayout) findViewById(R.id.frame);
 
 		// Load basic bubble Bitmap
-		mBitmap = BitmapFactory.decodeResource(getResources(), R.drawable.b64);
+		mBitmap = BitmapFactory.decodeResource(getResources(), R.drawable.bub128_);
 
 	}
 
